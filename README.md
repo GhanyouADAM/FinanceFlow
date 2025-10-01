@@ -49,15 +49,10 @@ Vous pouvez tester l'application en installant directement le fichier APK.
 
     Suivez les instructions pour installer l'application.
 
-    🇬🇧 FinanceFlow (EN)
+
+ 🇬🇧 FinanceFlow (EN)
 
 FinanceFlow is a mobile expense tracking application designed to help you manage your personal finances in a simple and intuitive way. Keep an eye on your income and expenses to better control your budget. Developed with Flutter, the app is both performant and aesthetically pleasing.
-
-📸 Screenshots
-
-(Replace the links below with actual screenshots of your app. This is crucial for visual appeal!)
-Home Screen	Add Transaction	Expense History
-		
 
 ✨ Current Features
 
